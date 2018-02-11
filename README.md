@@ -9,6 +9,9 @@ Scenario : You are a Team Hortons coffee delivery man, you have to find the Team
 The more you collect, the higher the score is, but be careful to don't fall into water and hit rocks !
 
 Software used : Blender, Unreal engine 4, Photoshop
+
 All 3D models made by us
-Sound find on Freesound.org
+
+Sound find on Freesound.or
+
 Ambient music composed by JazzyFrench
